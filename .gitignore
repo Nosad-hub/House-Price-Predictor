@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+model.pkl
+pipeline.pkl
+
+train.csv
+test.csv
+output.csv
+
+.venv/
+venv/
+env/
+
+.ipynb_checkpoints/
